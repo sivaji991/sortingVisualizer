@@ -2,7 +2,7 @@
   "name": "sorting-visualizer",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://YOUR_USERNAME.github.io/searching-visualizer",
+  "homepage": "https://sivaji991.github.io/sortingVisualizer",
   "type": "module",
   "scripts": {
     "dev": "vite",
